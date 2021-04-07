@@ -414,6 +414,10 @@ section.home {
   .services .service {
     box-shadow: 0 10px 30px rgb(0, 0, 0, 0.1);
   }
+  .home-content h1 {
+    position: relative;
+    margin-top: 100px;
+  }
 }
 @media(max-width: 435){
   .logo {

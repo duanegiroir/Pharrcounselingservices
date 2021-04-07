@@ -420,7 +420,7 @@ section.home {
     margin: 50px 10px;
   }
 }
-@media(max-width: 435){
+@media(max-width: 435px){
   .logo {
     position:relative;
   }

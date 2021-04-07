@@ -429,7 +429,7 @@ section.home {
     margin: 50px 10px 20px 10px;
   }
 }
-@medua(max-width: 350px){
+@media(max-width: 350px){
    .logo {
     position:relative;
   }

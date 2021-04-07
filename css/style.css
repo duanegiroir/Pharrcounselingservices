@@ -417,7 +417,7 @@ section.home {
   }
   .home-content h1 {
     position: relative;
-    margin: auto;
+    margin: 50px 10px;
   }
 }
 @media(max-width: 435){
@@ -426,6 +426,6 @@ section.home {
   }
   .home-content h1 {
     position: relative;
-    margin: auto;
+    margin: 50px 10px;
   }
 }
